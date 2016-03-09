@@ -1,0 +1,5 @@
+D:\study\MsdnDemo\DelegateTest\MultiBroadcast\bin\Debug\MultiBroadcast.exe.config
+D:\study\MsdnDemo\DelegateTest\MultiBroadcast\bin\Debug\MultiBroadcast.exe
+D:\study\MsdnDemo\DelegateTest\MultiBroadcast\bin\Debug\MultiBroadcast.pdb
+D:\study\MsdnDemo\DelegateTest\MultiBroadcast\obj\Debug\MultiBroadcast.exe
+D:\study\MsdnDemo\DelegateTest\MultiBroadcast\obj\Debug\MultiBroadcast.pdb

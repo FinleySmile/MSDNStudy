@@ -1,0 +1,5 @@
+D:\study\MsdnDemo\GenericTest\GenericArray\bin\Debug\GenericArray.exe.config
+D:\study\MsdnDemo\GenericTest\GenericArray\bin\Debug\GenericArray.exe
+D:\study\MsdnDemo\GenericTest\GenericArray\bin\Debug\GenericArray.pdb
+D:\study\MsdnDemo\GenericTest\GenericArray\obj\Debug\GenericArray.exe
+D:\study\MsdnDemo\GenericTest\GenericArray\obj\Debug\GenericArray.pdb

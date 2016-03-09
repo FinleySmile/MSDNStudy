@@ -1,0 +1,6 @@
+D:\study\MsdnDemo\NamespaceTest\GlobalNamespaceDemo\bin\Debug\GlobalNamespaceDemo.exe.config
+D:\study\MsdnDemo\NamespaceTest\GlobalNamespaceDemo\bin\Debug\GlobalNamespaceDemo.exe
+D:\study\MsdnDemo\NamespaceTest\GlobalNamespaceDemo\bin\Debug\GlobalNamespaceDemo.pdb
+D:\study\MsdnDemo\NamespaceTest\GlobalNamespaceDemo\obj\Debug\FileDemo.csprojResolveAssemblyReference.cache
+D:\study\MsdnDemo\NamespaceTest\GlobalNamespaceDemo\obj\Debug\GlobalNamespaceDemo.exe
+D:\study\MsdnDemo\NamespaceTest\GlobalNamespaceDemo\obj\Debug\GlobalNamespaceDemo.pdb
